@@ -1,0 +1,8 @@
+Administrad0r 
+Nome : Tafari
+Senha: 1234
+
+
+Funcionario
+Nome: Keite
+Senha:0000
